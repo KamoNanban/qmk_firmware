@@ -1,6 +1,6 @@
 # manta60
 
-![manta60](imgur.com image replace me!)
+![manta60](https://github.com/KamoNanban/Manta60/raw/master/documents/_image/manta60_1.jpg)
 
 A short description of the keyboard/project
 
