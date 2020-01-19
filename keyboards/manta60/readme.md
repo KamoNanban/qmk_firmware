@@ -2,7 +2,7 @@
 
 ![manta60](https://github.com/KamoNanban/Manta60/raw/master/documents/_image/manta60_1.jpg)
 
-A split keyboard with 27 ortholinear keys and 5-6 thumb keys
+A split keyboard with 27 ortholinear keys and 5-7 thumb keys
 
 Keyboard Maintainer: [kamonanban](https://github.com/yourusername)  
 Hardware Supported: The PCBs, controllers supported  
